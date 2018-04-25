@@ -32,6 +32,7 @@ Basic of PLC & PLC programming will be covered. Your background and why you want
 
 # Sample Logic – Know How to Program in LAD diagram ( a programming language)
 
+  - Ladder program overview and few samples
   - Data type
   -	Symbols
   -	Instructions
@@ -42,11 +43,12 @@ Basic of PLC & PLC programming will be covered. Your background and why you want
   -	VAT
   -	Simulator
   -	Know STL Language Program basic
+  - Real life project discussions
   
 # HMI, SCADA & DCS 
 
-o	Brief description of HMI, SCADA & DCS.
-o	How to interface them with PLC/Hardware
-o	Alarm/Event/Report/Recipe/Command/Set points Faceplate/Pop-ups
+-	Brief description of HMI, SCADA & DCS.
+-	How to interface them with PLC/Hardware
+-	Alarm/Event/Report/Recipe/Command/Set points Faceplate/Pop-ups
 
 # Integration with Drives & Other Third Party Measurement Instruments (Just Introduction)
