@@ -52,3 +52,4 @@ Basic of PLC & PLC programming will be covered. Your background and why you want
 -	Alarm/Event/Report/Recipe/Command/Set points Faceplate/Pop-ups
 
 # Integration with Drives & Other Third Party Measurement Instruments (Just Introduction)
+  - How machines, factory and process work together to complete a total unit
