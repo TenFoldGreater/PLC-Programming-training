@@ -29,17 +29,17 @@ Basic of PLC & PLC programming will be covered. Your background and why you want
 *	PC Hardware, Driver for Development & Integration
 *	Programming / Development Software GUI
 *	Guide to Vendor/Product Selection
-*	Sample Logic – Know How to Program in LAD 
-  *	Data type
-  *	Symbols
-  *	Instructions
-  *	Structure
-  *	Standard FC/FB/DB
-  *	SFB/SFC
-  *	User Defined
-  *	VAT
-  *	Simulator
-  *	Know STL Language Program basic
+*	Sample Logic – Know How to Program in LAD
+  _ Data type
+  _	Symbols
+  _	Instructions
+  _	Structure
+  _	Standard FC/FB/DB
+  _	SFB/SFC
+  _	User Defined
+  _	VAT
+  _	Simulator
+  _	Know STL Language Program basic
   
 # HMI, SCADA & DCS 
 
