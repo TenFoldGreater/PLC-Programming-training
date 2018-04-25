@@ -22,25 +22,25 @@ Basic of PLC & PLC programming will be covered. Your background and why you want
 
 # PLC Hardware & Software
 
-o	CPU various versions & Types
-o	SM-DI/DO/AI/AO/FM etc
-o	PLC Memory Understanding
-o	Networking Communication Protocols , Switches
-o	PC Hardware, Driver for Development & Integration
-o	Programming / Development Software GUI
-o	Guide to Vendor/Product Selection
-o	Sample Logic – Know How to Program in LAD 
+* CPU various versions & Types
+*	SM-DI/DO/AI/AO/FM etc
+*	PLC Memory Understanding
+*	Networking Communication Protocols , Switches
+*	PC Hardware, Driver for Development & Integration
+*	Programming / Development Software GUI
+*	Guide to Vendor/Product Selection
+*	Sample Logic – Know How to Program in LAD 
 
-  	Data type
-  	Symbols
-  	Instructions
-  	Structure
-  	Standard FC/FB/DB
-  	SFB/SFC
-  	User Defined
-  	VAT
-  	Simulator
-  	Know STL Language Program basic
+  *	Data type
+  *	Symbols
+  *	Instructions
+  *	Structure
+  *	Standard FC/FB/DB
+  *	SFB/SFC
+  *	User Defined
+  *	VAT
+  *	Simulator
+  *	Know STL Language Program basic
   
 # HMI, SCADA & DCS 
 
