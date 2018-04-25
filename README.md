@@ -30,7 +30,6 @@ Basic of PLC & PLC programming will be covered. Your background and why you want
 *	Programming / Development Software GUI
 *	Guide to Vendor/Product Selection
 *	Sample Logic – Know How to Program in LAD 
-
   *	Data type
   *	Symbols
   *	Instructions
