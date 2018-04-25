@@ -1,24 +1,24 @@
-## PLC-Programming-training
-# Date:29-April-2018
-# Location: Vashi, Navi Mumbai, India
+# PLC and Ladder (LAD) Logic Diagram
+## Date:29-April-2018
+## Location: Vashi, Navi Mumbai, India
 
-Course Fee: Free to all
-Number of Seats: 8 
-How to book your seat: WhatsApp or sms - send your Name, Age, Profession and Location to +91-7477424858 to book your seat. 
+* Course Fee: Free to all
+* Number of Seats: 8 
+* Duration: 2.5 hours
+* Pre-requiste: You should have computer laptop to read/write notes, should know how to install/un-install softwares, should understand                 basics of electronics & electrical circuits
+* How to book your seat: WhatsApp or sms - send your Name, Age, Profession and Location to +91-7477424858 to book your seat
 
+# About Course
 
-Duration of course is 2.5 Hours only. 
-Basic of PLC & PLC programming will be covered.
-Concept and it's applications in the real world.
-Study materials, Web links and help will be provided for further study & practice.
+Basic of PLC & PLC programming will be covered. Your background and why you want to learn about PLC will be asked and evaluated. Suggession and possible job or business will be discussed during the training. Some example, concept and it's applications in the real world will be demonstrated. Study materials, Web links and help will be provided for further study & practice.
 
 # Introduction
 
-o	What is to expect from the Training Session        
-o	Application of PLC
-o	Vendors
-o	Market Share
-o	HMI, SCADA and DCS overview
+*	What is to expect from the Training Session        
+*	Application of PLC
+*	Vendors
+*	Market Share
+*	HMI, SCADA and DCS overview
 
 # PLC Hardware & Software
 
