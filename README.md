@@ -29,7 +29,9 @@ Basic of PLC & PLC programming will be covered. Your background and why you want
 *	PC Hardware, Driver for Development & Integration
 *	Programming / Development Software GUI
 *	Guide to Vendor/Product Selection
-*	Sample Logic – Know How to Program in LAD
+
+# Sample Logic – Know How to Program in LAD diagram ( a programming language)
+
   - Data type
   -	Symbols
   -	Instructions
