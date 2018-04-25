@@ -1,6 +1,11 @@
-# PLC-Programming-training on 29-April-2018 ( Location: Vashi, Navi Mumbai, India)
+## PLC-Programming-training
+# Date:29-April-2018
+# Location: Vashi, Navi Mumbai, India
 
-This PLC Programming training is open for all limited by 6 seats only and free of charge. WhatsApp +91-7477424858 to book your seat.
+Course Fee: Free to all
+Number of Seats: 8 
+How to book your seat: WhatsApp or sms - send your Name, Age, Profession and Location to +91-7477424858 to book your seat. 
+
 
 Duration of course is 2.5 Hours only. 
 Basic of PLC & PLC programming will be covered.
