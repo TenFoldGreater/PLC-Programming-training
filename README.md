@@ -1,5 +1,5 @@
 # PLC and Ladder (LAD) Logic Diagram
-## Date:29-April-2018
+## Date:12-May-2018
 ## Location: Vashi, Navi Mumbai, India
 
 * Course Fee: Free to all
