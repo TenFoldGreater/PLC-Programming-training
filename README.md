@@ -46,6 +46,7 @@ Basic of PLC & PLC programming will be covered. Your background and why you want
   - Real life project discussions
   
 # HMI, SCADA & DCS 
+![HMI Panel](https://github.com/TenFoldGreater/PLC-Programming-training/blob/master/HMI%20panel.jpg)
 
 -	Brief description of HMI, SCADA & DCS.
 -	How to interface them with PLC/Hardware
