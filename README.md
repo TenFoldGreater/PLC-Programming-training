@@ -31,7 +31,7 @@ Basic of PLC & PLC programming will be covered. Your background and why you want
 *	Guide to Vendor/Product Selection
 
 # Sample Logic – Know How to Program in LAD diagram ( a programming language)
-![Ladder diagram] (https://github.com/TenFoldGreater/PLC-Programming-training/blob/master/ladder1.png)
+![Ladder diagram](https://github.com/TenFoldGreater/PLC-Programming-training/blob/master/ladder1.png)
   - Ladder program overview and few samples
   - Data type
   -	Symbols
